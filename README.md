@@ -1,8 +1,10 @@
 # googleDoc2GFM
 
-This is a new project. 
+This is a new project.
+
 ## Aims
-The aim of this project is to have an app which can convert a Google documents into Github Flavoured Markdown. At thestart it will be written to run on Google appscript
+
+The aim of this project is to have an app which can convert a Google documents into Github Flavoured Markdown. At the start it will be written to run on Google Appscrip, but structured for easy transfer to other *Script platforms,
 
 ## Features
 
@@ -18,6 +20,7 @@ I have not decided on the type of license yet. When comitts start moving this se
 
 ## Structure
 
-## Instructions
+## Instructions of use
 
 updated: 2018-19-08
+
