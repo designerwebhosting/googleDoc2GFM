@@ -4,7 +4,7 @@ This is a new project.
 
 ## Aims
 
-The aim of this project is to have an app which can convert a Google documents into Github Flavoured Markdown. At the start it will be written to run on Google Appscrip, but structured for easy transfer to other *Script platforms,
+The aim of this project is to have an app which can convert a Google documents into Github Flavoured Markdown. At the start it will be written to run on Google Appscript, but structured for easy transfer to other *Script platforms,
 
 ## Features
 
