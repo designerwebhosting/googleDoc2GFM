@@ -23,7 +23,7 @@ I have not decided on the type of license yet. When comitts start moving this se
 1. All functions will have a defined spectification for both input and output.
    - Makes it easyto udate or change.
    
-2  The core will be in vanilla script with external libraries in wrappers.
+2. The core will be in vanilla script with external libraries in wrappers.
    - Allows for external libraries to be updated orchanged without the need to rewrite the main code.
    
 3. Simple function structure. input varibles -> work on varibles -> output varibles.
