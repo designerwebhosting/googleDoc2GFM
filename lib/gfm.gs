@@ -1,5 +1,7 @@
 //
-* GFM library
+GFM library
+
+Copyright (c) 2018 Peter Noble
 //
 
  var parent = {
