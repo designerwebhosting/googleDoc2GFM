@@ -21,17 +21,17 @@ I have not decided on the type of license yet. When comitts start moving this se
 ## Structure
 
 1. All functions will have a defined spectification for both input and output.
-  - Makes it easyto udate or change.
+   - Makes it easyto udate or change.
    
 2  The core will be in vanilla script with external libraries in wrappers.
-  - Allows for external libraries to be updated orchanged without the need to rewrite the main code.
+   - Allows for external libraries to be updated orchanged without the need to rewrite the main code.
    
 3. Simple function structure. input varibles -> work on varibles -> output varibles.
-  - Simple structures are easiler to debug and update. 
-  - Bugs will be easier to identify and correct.
+   - Simple structures are easiler to debug and update. 
+   - Bugs will be easier to identify and correct.
    
 4. Functions do one thing.
-  - Bugs will be easier to identify and correct.
+   - Bugs will be easier to identify and correct.
 
 ## Instructions of use
 
