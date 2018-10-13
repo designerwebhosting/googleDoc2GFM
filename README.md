@@ -24,3 +24,4 @@ I have not decided on the type of license yet. When comitts start moving this se
 
 updated: 2018-19-08
 
+Copyright (c) 2018 Peter Noble
