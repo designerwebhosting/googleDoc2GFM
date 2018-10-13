@@ -21,10 +21,11 @@ I have not decided on the type of license yet. When comitts start moving this se
 ## Structure
 
 1. All functions will have a defined spectification for both input and output.
-   - Makes it easyto udate or change.
+   - Makes it easy to udate or change.
    
 2. The core will be in vanilla script with external libraries in wrappers.
    - Allows for external libraries to be updated orchanged without the need to rewrite the main code.
+   - Allows for easy adoption of new platforms using different liraries.
    
 3. Simple function structure. input varibles -> work on varibles -> output varibles.
    - Simple structures are easiler to debug and update. 
@@ -35,6 +36,6 @@ I have not decided on the type of license yet. When comitts start moving this se
 
 ## Instructions of use
 
-updated: 2018-19-08
+updated: 2018-19-13
 
 Copyright (c) 2018 Peter Noble
