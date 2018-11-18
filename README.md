@@ -16,7 +16,7 @@ The aim of this project is to have an app which can convert a Google documents i
 
 ## License
 
-I have not decided on the type of license yet. When comitts start moving this section will be updated,
+This project is published under the GNU General Public License v3.0
 
 ## Structure
 
@@ -36,6 +36,6 @@ I have not decided on the type of license yet. When comitts start moving this se
 
 ## Instructions of use
 
-updated: 2018-19-13
+updated: 2018-11-13
 
 Copyright (c) 2018 Peter Noble
